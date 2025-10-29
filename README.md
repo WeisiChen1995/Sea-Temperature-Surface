@@ -1,6 +1,6 @@
 # 🌊 Australian Sea Surface Temperature Analysis (1995–2025)
 
-[View it here](https://weisichen.org/sst.html)
+View it [here](https://weisichen.org/sst.html)
 
 Explore **30 years of sea surface temperature (SST) variability around Australia** using NOAA’s **ERSST** dataset. This project applies **Principal Component Analysis (PCA)** to reveal dominant spatial and temporal SST patterns and visualizes trends over time.  
 
@@ -49,8 +49,7 @@ This project analyzes **monthly SST data (1995–2025)** and uncovers dominant t
   - Clear **annual cycle**: lowest in summer (Feb), highest in winter (Aug).  
   - Explains **≈69% of total SST variability**, showing seasonal cycles dominate.  
 
-![EOF1 Spatial Map Placeholder](https://via.placeholder.com/600x400.png?text=EOF1+Map)  
-![PC1 Time Series Placeholder](https://via.placeholder.com/600x400.png?text=PC1+Time+Series)
+![Result](3-Output/sst_plot.png)
 
 **Insights:**  
 - Positive PC1 → warmer northern waters, cooler southern waters.  
@@ -66,6 +65,6 @@ Clone the repository and run the scripts to:
 - Reproduce figures and visualizations.  
 
 ```bash
-git clone https://github.com/yourusername/aus-sst-analysis.git
+git clone https://github.com/WeisiChen1995/aus-sst-analysis.git
 cd aus-sst-analysis
 # Follow instructions in scripts/ folder to run analysis
