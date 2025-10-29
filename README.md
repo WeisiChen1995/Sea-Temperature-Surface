@@ -1,6 +1,6 @@
 # 🌊 Australian Sea Surface Temperature Analysis (1995–2025)
 
-View it here[https://weisichen.org/sst.html]
+[View it here](https://weisichen.org/sst.html)
 
 Explore **30 years of sea surface temperature (SST) variability around Australia** using NOAA’s **ERSST** dataset. This project applies **Principal Component Analysis (PCA)** to reveal dominant spatial and temporal SST patterns and visualizes trends over time.  
 
